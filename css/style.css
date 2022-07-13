@@ -1,0 +1,22 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.heading {
+    text-align: center;
+    font-size: large;
+    background-color: rgb(218, 218, 218);
+}
+
+.image {
+    text-align: center;
+}
+
+.subheading {
+    background-color: rgb(218, 218, 218);
+    text-indent: 1mm;
+}
+
+.sub-subheading {
+    text-indent: 2mm;
+}
