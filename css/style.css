@@ -12,11 +12,11 @@
     text-align: center;
 }
 
-.subheading {
-    background-color: rgb(218, 218, 218);
-    text-indent: 1mm;
-}
-
+.subheading,
 .sub-subheading {
     text-indent: 2mm;
+}
+
+.subheading {
+    background-color: rgb(218, 218, 218);
 }
